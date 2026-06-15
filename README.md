@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey there! 👋 I'm Bhuvaneshwari Nagarajan
 
-<!--
-**bhuvaneshwari-nagarajan/bhuvaneshwari-nagarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an aspiring **Full Stack Developer** with a strong interest in web development and software engineering.
 
-Here are some ideas to get you started:
+## 🎯 About Me
+I have hands-on experience building projects using HTML, CSS, JavaScript, Python, Django, MySQL, and SQLite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+- **Languages:** Python, JavaScript, HTML5, CSS3
+- **Frameworks:** Django
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, GitHub, VS Code, Netlify
+
+## 📁 My Projects
+1. 🌐 Personal Portfolio Website
+2. 🏧 ATM Machine Simulation System
+3. 🛒 E-Commerce Frontend Website
+4. 🏨 Hotel QR Scanner System
+
+## 🤝 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvaneshwari-nagarajan-b4252531b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhuvaneshwarinagarajan3@gmail.com)

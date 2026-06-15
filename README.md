@@ -70,10 +70,12 @@ An innovative QR-based hotel management solution for digital menus and services.
 
 ## 🎓 Certifications
 
+
+- ✅ **Full Stack Web Development** - Self-taught & Portfolio Projects & Professional training 
+- ✅ **NPTEL certification: Data analytics with python, Cloud computing** 
+- ✅ **COA certified- Computer on Office Automation**
 - ✅ **Junior Typewriting Certification** - Tamil & English
 - ✅ **Senior Typewriting Certification** - Tamil & English
-- ✅ **Full Stack Web Development** - Self-taught & Portfolio Projects
-
 ---
 
 ## 🎨 Hobbies & Interests

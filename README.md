@@ -8,9 +8,9 @@
 
 ## 🎯 About Me
 
-I'm an aspiring **Full Stack Developer** passionate about creating beautiful, functional web applications. With hands-on experience in both frontend and backend development, I love turning ideas into reality through code.
+I'm an aspiring **Python Full Stack Developer** passionate about creating beautiful, functional web applications. With hands-on experience in both frontend and backend development, I love turning ideas into reality through code.
 
-- 🔭 Currently working on **Full Stack Web Development Projects**
+- 🔭 Currently working on **Python Full Stack Web Development Projects**
 - 🌱 Learning **Django, React, and Advanced JavaScript**
 - 💡 Interested in **Web Design, Database Management, and Cloud Deployment**
 - 📍 Based in **India**

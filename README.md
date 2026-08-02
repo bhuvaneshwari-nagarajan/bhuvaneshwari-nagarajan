@@ -15,7 +15,7 @@ I'm an aspiring **Python Full Stack Developer** passionate about creating beauti
 - 💡 Interested in **Web Design, Database Management, and Cloud Deployment**
 - 📍 Based in **India**
 
----
+----
 
 ## 💻 Tech Stack
 

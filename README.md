@@ -1,122 +1,255 @@
-# Hey there! 👋 I'm Bhuvaneshwari Nagarajan
+# 👋 Hi, I'm Bhuvaneshwari Nagarajan
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Python+Full+Stack+Developer;Django+Developer+Enthusiast;Software+Developer;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+
+## Python Full Stack Developer · AI & Data Science Enthusiast
+
+Building web applications, AI-powered solutions, and practical software projects.
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;AI+%26+Data+Science+Enthusiast;Building+Real-World+Projects;Learning+%7C+Building+%7C+Improving" />
+
+<br><br>
+
+<a href="https://github.com/bhuvaneshwari-nagarajan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/bhuvaneshwari-nagarajan-b4252531b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:bhuvaneshwarinagarajan3@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-## 🎯 About Me
+## 👩‍💻 About Me
 
-I'm an aspiring **Python Full Stack Developer** passionate about creating beautiful, functional web applications. With hands-on experience in both frontend and backend development, I love turning ideas into reality through code.
+I'm a **B.Tech Artificial Intelligence & Data Science student** and an aspiring **Python Full Stack Developer** interested in building practical and intelligent software solutions.
 
-- 🔭 Currently working on **Python Full Stack Web Development Projects**
-- 🌱 Learning **Django, React, and Advanced JavaScript**
-- 💡 Interested in **Web Design, Database Management, and Cloud Deployment**
-- 📍 Based in **India**
+I enjoy working across the stack — from designing responsive interfaces to developing backend systems, APIs, databases, and AI-powered applications.
 
-----
+### What I Focus On
 
-## 💻 Tech Stack
+- 🐍 Python & Django development
+- 🌐 Full Stack Web Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Analytics & Data-driven applications
+- 🔌 REST API development
+- 🗄️ Database design & management
+- ☁️ Deployment and modern development workflows
 
-<div align="center">
+> **Build useful things. Learn continuously. Improve every project.**
+
+---
+
+# 🛠️ Technology Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,bootstrap,react" />
+</p>
+
+### AI / Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+**Libraries & Tools:**  
+Pandas · NumPy · Scikit-learn · Keras · LSTM · RNN
 
 ### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+</p>
+
+**Also:** REST APIs · Power BI · Excel
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 ResumeIQ
+
+### AI-Powered Resume Analysis Platform
+
+ResumeIQ is an AI-powered web application designed to analyze resumes, extract relevant information and skills, evaluate resume quality, and provide useful insights for improvement.
+
+**Tech Stack**
+
+`Python` `Django` `HTML` `CSS` `JavaScript` `AI/ML`
+
+🔗 [View Repository](https://github.com/bhuvaneshwari-nagarajan/ResumeIQ)
+
+---
+
+## 🎨 AirCanvas
+
+### Gesture-Controlled Virtual Drawing Application
+
+AirCanvas is an interactive computer vision project that allows users to draw virtually using **hand gestures** captured through a camera.
+
+The project explores real-time hand tracking and gesture-based interaction to create a touch-free digital canvas experience.
+
+**Tech Stack**
+
+`Python` `OpenCV` `MediaPipe` `Computer Vision`
+
+### Key Features
+
+- ✋ Real-time hand gesture tracking
+- 🎨 Virtual drawing experience
+- 🖐️ Touch-free interaction
+- 🧠 Computer vision based gesture detection
+- ⚡ Real-time processing
+
+---
+
+## 🖐️ AI Gesture-Based Presentation Controller
+
+### Hands-Free Presentation Control Using Computer Vision
+
+An AI-powered presentation controller that uses **hand gestures to interact with presentation slides**, reducing the need for traditional keyboard or mouse controls.
+
+The project combines computer vision and gesture recognition to detect hand movements and translate them into presentation commands.
+
+**Tech Stack**
+
+`Python` `Django` `MediaPipe` `OpenCV` `JavaScript`
+
+### Key Features
+
+- ✋ Real-time hand detection
+- 👋 Gesture recognition
+- ⏭️ Slide navigation
+- 🖥️ Browser-based interface
+- ⚡ Real-time interaction
+- 🤖 AI-powered human-computer interaction
+
+---
+
+## 🌐 Personal Portfolio
+
+A responsive personal portfolio website showcasing my technical skills, projects, certifications, and development journey.
+
+**Tech Stack**
+
+`HTML5` `CSS3` `JavaScript`
+
+🔗 [Live Portfolio](https://my-portfolio-eosin-three-59.vercel.app/)
+
+---
+
+## 🏨 Hotel QR Scanner System
+
+A QR-based hotel management solution designed to provide digital access to menus and hotel services.
+
+**Tech Stack**
+
+`Python` `Django` `QR Code`
+
+---
+
+## 🏧 ATM Machine Simulation
+
+A Python-based ATM simulation implementing essential banking operations with PIN verification and transaction handling.
+
+**Tech Stack**
+
+`Python`
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bhuvaneshwari-nagarajan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshwari-nagarajan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 ---
 
-## 📁 Featured Projects
-
-### 🌐 Personal Portfolio Website
-A responsive portfolio website showcasing my skills and projects with smooth animations and modern design.
-- **Tech:** HTML5, CSS3, JavaScript
-- **Status:** ✅ Live
-
-### 🏧 ATM Machine Simulation System
-A banking application that simulates real ATM operations with secure PIN verification.
-- **Tech:** Python
-- **Status:** ✅ Completed
-
-### 🛒 E-Commerce Frontend Website
-A modern e-commerce interface with product listings, shopping cart, and user-friendly navigation.
-- **Tech:** HTML5, CSS3, JavaScript
-- **Status:** ✅ Completed
-
-### 🏨 Hotel QR Scanner System
-An innovative QR-based hotel management solution for digital menus and services.
-- **Tech:** Python, QR Code API
-- **Status:** ✅ Completed
-
----
-
-## 🎓 Certifications
-
-
-- ✅ **Full Stack Web Development** - Self-taught & Portfolio Projects & Professional training 
-- ✅ **NPTEL certification: Data analytics with python, Cloud computing** 
-- ✅ **COA certified- Computer on Office Automation**
-- ✅ **Junior Typewriting Certification** - Tamil & English
-- ✅ **Senior Typewriting Certification** - Tamil & English
----
-
-## 🎨 Hobbies & Interests
-
-- 🎨 **Digital Art & Drawing** - Creating visual designs and digital illustrations
-- 📚 **Learning New Technologies** - Always exploring the latest frameworks and tools
-- 🧠 **Problem Solving** - Tackling coding challenges and puzzles
-- 💡 **Creative Projects** - Building applications that blend functionality with design
-
----
-
-## 📊 GitHub Statistics
+# 🔥 Contribution Streak
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvaneshwari-nagarajan&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshwari-nagarajan&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshwari-nagarajan&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect!
+# 🎓 Education
 
-<div align="center">
+### B.Tech — Artificial Intelligence & Data Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvaneshwari-nagarajan-b4252531b)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhuvaneshwarinagarajan3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bhuvaneshwari-nagarajan)
+**Tamil Nadu College of Engineering, Coimbatore**
 
-</div>
+`Anna University` · `2023 – 2027`
+
+---
+
+# 📜 Certifications
+
+- 🏆 **NPTEL — Data Analytics with Python**
+- ☁️ **NPTEL — Cloud Computing**
+- 💻 **Computer on Office Automation (COA)**
+- ⌨️ **Junior Typewriting — Tamil & English**
+- ⌨️ **Senior Typewriting — Tamil & English**
+- 🚀 **Full Stack Web Development — Professional Training & Projects**
+
+---
+
+# 📚 Currently Learning
+
+```text
+Python & Django
+      ↓
+REST API Development
+      ↓
+Modern Frontend
+      ↓
+AI & Computer Vision
+      ↓
+Data Analytics
+      ↓
+Real-World Applications
 
 ---
 
 <div align="center">
 
-### ⭐ If you find my work interesting, don't forget to star my repositories!
+### 🚀 Building the Future, One Project at a Time
 
-![Profile Views](https://komarev.com/ghpvc/?username=bhuvaneshwari-nagarajan&color=00D4FF&style=flat-square)
+**Code • Create • Learn • Innovate**
 
-**Made with ❤️ by Bhuvaneshwari Nagarajan**
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=bhuvaneshwari-nagarajan&style=flat-square&color=00D4FF" />
+
+<br><br>
+
+⭐ **Thanks for visiting my GitHub profile!**
 
 </div>

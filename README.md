@@ -154,8 +154,6 @@ A responsive personal portfolio website showcasing my technical skills, projects
 
 `HTML5` `CSS3` `JavaScript`
 
-🔗 [Live Portfolio](https://my-portfolio-eosin-three-59.vercel.app/)
-
 ---
 
 ## 🏨 Hotel QR Scanner System

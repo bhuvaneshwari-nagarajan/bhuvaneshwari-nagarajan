@@ -176,27 +176,6 @@ A Python-based ATM simulation implementing essential banking operations with PIN
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=bhuvaneshwari-nagarajan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshwari-nagarajan&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvaneshwari-nagarajan&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 # 🎓 Education
 
@@ -236,18 +215,3 @@ Real-World Applications
 
 ---
 
-<div align="center">
-
-### 🚀 Building the Future, One Project at a Time
-
-**Code • Create • Learn • Innovate**
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=bhuvaneshwari-nagarajan&style=flat-square&color=00D4FF" />
-
-<br><br>
-
-⭐ **Thanks for visiting my GitHub profile!**
-
-</div>

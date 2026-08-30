@@ -148,7 +148,7 @@ The project combines computer vision and gesture recognition to detect hand move
 
 ## 🌐 Personal Portfolio
 
-A responsive personal portfolio website showcasing my technical skills, projects, certifications, and development journey.
+A responsive personal portfolio website showcasing my technical skills, projects, certifications, and development journey..
 
 **Tech Stack**
 

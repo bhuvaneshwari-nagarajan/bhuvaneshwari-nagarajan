@@ -1,217 +1,163 @@
-# 👋 Hi, I'm Bhuvaneshwari Nagarajan
+# Hi, I'm Bhuvaneshwari N 👋
 
-<div align="center">
+### Python Full Stack Developer | Programming Trainer | Technical Instructor
 
-## Python Full Stack Developer · AI & Data Science Enthusiast
+I'm a B.Tech Artificial Intelligence & Data Science student with hands-on
+experience in Python full-stack development, web technologies, programming
+training, and computer vision.
 
-Building web applications, AI-powered solutions, and practical software projects.
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;AI+%26+Data+Science+Enthusiast;Building+Real-World+Projects;Learning+%7C+Building+%7C+Improving" />
-
-<br><br>
-
-<a href="https://github.com/bhuvaneshwari-nagarajan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/bhuvaneshwari-nagarajan-b4252531b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:bhuvaneshwarinagarajan3@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+I enjoy building practical applications with Python and Django, exploring
+AI/computer vision concepts, and helping learners strengthen their
+programming fundamentals through hands-on coding.
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a **B.Tech Artificial Intelligence & Data Science student** and an aspiring **Python Full Stack Developer** interested in building practical and intelligent software solutions.
-
-I enjoy working across the stack — from designing responsive interfaces to developing backend systems, APIs, databases, and AI-powered applications.
-
-### What I Focus On
-
-- 🐍 Python & Django development
-- 🌐 Full Stack Web Development
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Analytics & Data-driven applications
-- 🔌 REST API development
-- 🗄️ Database design & management
-- ☁️ Deployment and modern development workflows
-
-> **Build useful things. Learn continuously. Improve every project.**
+- 🎓 B.Tech Artificial Intelligence & Data Science — 2023–2027
+- 💻 Interested in Python Full Stack Development and Backend Development
+- 🐍 Working with Python, Django and Django REST Framework
+- 🌐 Building responsive web applications using HTML, CSS, JavaScript and Bootstrap
+- 👁️ Exploring Computer Vision with OpenCV and MediaPipe
+- 👩‍🏫 Programming Trainer with experience in Python, Java and C
+- 📊 Interested in Data Analytics and practical data-driven projects
+- 🚀 Currently improving my development skills through projects and hands-on learning
 
 ---
 
-# 🛠️ Technology Stack
+## 🛠️ Technical Skills
 
-### Languages
+### Programming Languages
+`Python` `Java` `C` `JavaScript`
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-</p>
+### Web Technologies
+`HTML5` `CSS3` `JavaScript` `Bootstrap` `Responsive Web Design`
 
-### Web Development
+### Backend
+`Django` `Django REST Framework` `REST APIs`
+`Authentication` `CRUD` `MVC Architecture`
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,bootstrap,react" />
-</p>
+### Database
+`SQL` `SQLite` `MySQL` `Django ORM`
 
-### AI / Data Science
+### AI / Computer Vision
+`OpenCV` `MediaPipe` `Gesture Recognition`
+`Machine Learning Fundamentals`
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-**Libraries & Tools:**  
-Pandas · NumPy · Scikit-learn · Keras · LSTM · RNN
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
-</p>
-
-**Also:** REST APIs · Power BI · Excel
+### Tools & Platforms
+`Git` `GitHub` `VS Code` `Postman` `Vercel` `Netlify`
 
 ---
 
-# 🚀 Featured Projects
+## 💼 Experience
 
-## 🧠 ResumeIQ
+### Programming Trainer — Profenaa Technologies & E-CADD Centre
 
-### AI-Powered Resume Analysis Platform
+- Delivered structured training in Python, Java and C.
+- Guided students through programming fundamentals and problem-solving.
+- Conducted hands-on coding sessions and mini-projects.
+- Introduced learners to HTML, CSS and JavaScript fundamentals.
 
-ResumeIQ is an AI-powered web application designed to analyze resumes, extract relevant information and skills, evaluate resume quality, and provide useful insights for improvement.
+### Python Full Stack Developer Intern — Vizweb Solutions
 
-**Tech Stack**
+**Duration: 3 Months**
 
-`Python` `Django` `HTML` `CSS` `JavaScript` `AI/ML`
-
-🔗 [View Repository](https://github.com/bhuvaneshwari-nagarajan/ResumeIQ)
-
----
-
-## 🎨 AirCanvas
-
-### Gesture-Controlled Virtual Drawing Application
-
-AirCanvas is an interactive computer vision project that allows users to draw virtually using **hand gestures** captured through a camera.
-
-The project explores real-time hand tracking and gesture-based interaction to create a touch-free digital canvas experience.
-
-**Tech Stack**
-
-`Python` `OpenCV` `MediaPipe` `Computer Vision`
-
-### Key Features
-
-- ✋ Real-time hand gesture tracking
-- 🎨 Virtual drawing experience
-- 🖐️ Touch-free interaction
-- 🧠 Computer vision based gesture detection
-- ⚡ Real-time processing
+- Developed full-stack CRUD applications using Django.
+- Worked with Models, Views and Templates following MVC architecture.
+- Built and integrated REST APIs for frontend-backend communication.
+- Developed responsive interfaces using HTML, CSS and JavaScript.
+- Worked with SQLite/MySQL and Django ORM for database operations.
 
 ---
 
-## 🖐️ AI Gesture-Based Presentation Controller
+## 🚀 Featured Projects
 
-### Hands-Free Presentation Control Using Computer Vision
+### AirCanvas AI
+**Python | OpenCV | MediaPipe**
 
-An AI-powered presentation controller that uses **hand gestures to interact with presentation slides**, reducing the need for traditional keyboard or mouse controls.
+A real-time computer vision application for touchless digital drawing
+and gesture recognition.
 
-The project combines computer vision and gesture recognition to detect hand movements and translate them into presentation commands.
+- Implemented hand-tracking based interaction.
+- Used finger coordinates to map gestures to screen actions.
+- Explored real-time computer vision using OpenCV and MediaPipe.
 
-**Tech Stack**
+### AI Gesture-Based Presentation Controller
+**Python | OpenCV | Computer Vision**
 
-`Python` `Django` `MediaPipe` `OpenCV` `JavaScript`
+A gesture-based presentation control system designed for intuitive
+slide navigation.
 
-### Key Features
+- Implemented hand-gesture based presentation controls.
+- Used computer vision techniques for gesture recognition.
+- Designed the system for real-time interaction with presentation software.
 
-- ✋ Real-time hand detection
-- 👋 Gesture recognition
-- ⏭️ Slide navigation
-- 🖥️ Browser-based interface
-- ⚡ Real-time interaction
-- 🤖 AI-powered human-computer interaction
+### Hotel QR Scanner System
+**Python | Django | HTML | CSS | JavaScript | SQLite**
 
----
+A QR-based digital menu system designed to simplify restaurant ordering.
 
-## 🌐 Personal Portfolio
+- Developed a dynamic digital menu.
+- Added menu and pricing management through an admin panel.
+- Used SQLite to store menu and ordering information.
 
-A responsive personal portfolio website showcasing my technical skills, projects, certifications, and development journey..
+### Personal Portfolio Website
+**HTML | CSS | JavaScript | Bootstrap | Vercel**
 
-**Tech Stack**
+A responsive personal portfolio showcasing my skills, projects,
+experience and certifications.
 
-`HTML5` `CSS3` `JavaScript`
-
----
-
-## 🏨 Hotel QR Scanner System
-
-A QR-based hotel management solution designed to provide digital access to menus and hotel services.
-
-**Tech Stack**
-
-`Python` `Django` `QR Code`
-
----
-
-## 🏧 ATM Machine Simulation
-
-A Python-based ATM simulation implementing essential banking operations with PIN verification and transaction handling.
-
-**Tech Stack**
-
-`Python`
+- Designed responsive page layouts.
+- Added interactive navigation and typing animation.
+- Deployed the portfolio using Vercel.
 
 ---
 
+## 📜 Certifications
 
-# 🎓 Education
-
-### B.Tech — Artificial Intelligence & Data Science
-
-**Tamil Nadu College of Engineering, Coimbatore**
-
-`Anna University` · `2023 – 2027`
-
----
-
-# 📜 Certifications
-
-- 🏆 **NPTEL — Data Analytics with Python**
-- ☁️ **NPTEL — Cloud Computing**
-- 💻 **Computer on Office Automation (COA)**
-- ⌨️ **Junior Typewriting — Tamil & English**
-- ⌨️ **Senior Typewriting — Tamil & English**
-- 🚀 **Full Stack Web Development — Professional Training & Projects**
+- Python Full Stack Development — Professional Training (2026)
+- NPTEL Certified — Data Analytics with Python
+- NPTEL Certified — Cloud Computing
+- Power BI — Data Visualization
+- Computer Organization & Office Automation (COA)
+- Typewriting — Junior & Senior (English & Tamil)
 
 ---
 
-# 📚 Currently Learning
+## 🎓 Education
 
-```text
-Python & Django
-      ↓
-REST API Development
-      ↓
-Modern Frontend
-      ↓
-AI & Computer Vision
-      ↓
-Data Analytics
-      ↓
-Real-World Applications
+**B.Tech — Artificial Intelligence & Data Science**  
+Tamil Nadu College of Engineering, Coimbatore  
+2023–2027 | CGPA: 8.43/10
+
+**HSC — Science Stream**  
+Thirumagal Higher Secondary School, Thanjavur  
+75%
+
+**SSLC**  
+Thirumagal Higher Secondary School, Thanjavur  
+94%
 
 ---
 
+## 📌 Current Focus
+
+- Python Full Stack Development
+- Django & REST API Development
+- Responsive Web Development
+- Computer Vision
+- Data Analytics
+- Building practical software projects
+
+---
+
+## 🤝 Let's Connect
+
+- 🌐 Portfolio: [My Portfolio](https://just-us-sb.netlify.app/)
+- 💼 LinkedIn: [Bhuvaneshwari Nagarajan](https://www.linkedin.com/in/bhuvaneshwari-nagarajan-b4252531b/)
+- 💻 GitHub: [bhuvaneshwari-nagarajan](https://github.com/bhuvaneshwari-nagarajan)
+- 📧 Email: bhuvaneshwarinagarajan3@gmail.com
+
+---
+
+### 💡 "Always learning, building, and improving through practical projects."

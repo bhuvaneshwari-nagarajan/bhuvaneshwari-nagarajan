@@ -153,7 +153,7 @@ Thirumagal Higher Secondary School, Thanjavur
 
 ## 🤝 Let's Connect
 
-- 🌐 Portfolio: [My Portfolio](https://just-us-sb.netlify.app/)
+- 🌐 Portfolio: [My Portfolio](https://bnfolio-dev.netlify.app/)
 - 💼 LinkedIn: [Bhuvaneshwari Nagarajan](https://www.linkedin.com/in/bhuvaneshwari-nagarajan-b4252531b/)
 - 💻 GitHub: [bhuvaneshwari-nagarajan](https://github.com/bhuvaneshwari-nagarajan)
 - 📧 Email: bhuvaneshwarinagarajan3@gmail.com

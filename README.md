@@ -1,122 +1,391 @@
 <div align="center">
 
-<!-- Hero Banner / Typing SVG -->
+<!-- Animated Typing Hero -->
+
 <a href="https://bnfolio-dev.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Bhuvaneshwari+Nagarajan;Python+Full+Stack+Developer+%7C+Django;Programming+Trainer+%26+Technical+Instructor;Computer+Vision+%26+Data+Analytics+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B+I'm+Bhuvaneshwari+Nagarajan;Python+Full+Stack+Developer+%7C+Django;Programming+Trainer+%7C+Technical+Instructor;Computer+Vision+%26+Data+Analytics+Enthusiast" alt="Typing introduction" />
 </a>
 
-<p align="center">
-  <b>B.Tech Artificial Intelligence & Data Science | Tamil Nadu College of Engineering, Coimbatore</b>
+<br>
+
+<p>
+  <strong>B.Tech Artificial Intelligence & Data Science</strong><br>
+  Tamil Nadu College of Engineering, Coimbatore • 2023–2027
 </p>
 
-<!-- Quick Action Badges -->
-<p align="center">
-  <a href="https://bnfolio-dev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-00D2FF?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="Portfolio" />
+<p>
+  <a href="https://bnfolio-dev.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-00D2FF?style=for-the-badge&labelColor=0d1117" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/bhuvaneshwari-nagarajan-b4252531b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/bhuvaneshwari-nagarajan-b4252531b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/bhuvaneshwari-nagarajan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
   </a>
   <a href="mailto:bhuvaneshwarinagarajan3@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
-  </a>
-  <a href="https://github.com/bhuvaneshwari-nagarajan?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-19+-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email">
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=100&section=header" width="100%" />
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:0077B6&height=110&section=header" width="100%" alt="Animated wave">
 
 </div>
 
 ---
 
-### 💫 About Me
+## 👩‍💻 About Me
 
 ```yaml
-developer:
-  name: Bhuvaneshwari Nagarajan
-  education: B.Tech in Artificial Intelligence & Data Science (2023 - 2027)
+name: Bhuvaneshwari Nagarajan
+role: Python Full Stack Developer | Programming Trainer | Technical Instructor
+
+education:
+  degree: B.Tech Artificial Intelligence & Data Science
   institution: Tamil Nadu College of Engineering, Coimbatore
-  academic_standing: CGPA 8.45 / 10
-  primary_focus: Python Full Stack Development & Backend Engineering
-  interests: [Django, REST APIs, Computer Vision, Data Analytics, Technical Mentorship]
-  current_status: Open to Full Stack / Backend Internships & Collaborative Projects
+  duration: 2023 - 2027
+  cgpa: 8.45 / 10
 
-🔭 Backend & Full Stack: Specializing in Python & Django, crafting scalable web architectures, REST APIs, and database-driven applications.
-👩‍🏫 Technical Trainer: Experienced in training and mentoring students in Python, Java, C, and foundational web technologies with a focus on problem-solving and clean code.
-👁️ Applied Vision & Analytics: Building interactive computer vision applications using OpenCV and MediaPipe, with data processing experience in NumPy and Pandas.
-🎯 Continuous Learner: Combining core AI & Data Science coursework with practical, production-ready software engineering.
-🛠️ Tech Stack & Tooling
-💻 Programming Languages
-PythonJavaCJavaScriptSQL
+focus:
+  - Python Full Stack Development
+  - Django & REST APIs
+  - Backend Development
+  - Responsive Web Development
+  - Computer Vision
+  - Data Analytics
 
-⚙️ Backend Frameworks & APIs
-DjangoDRFREST APIsArchitectureORM
+interests:
+  - Building practical software applications
+  - Exploring AI & Computer Vision
+  - Learning through hands-on projects
+  - Technical mentoring & programming training
 
-🌐 Frontend & UI Design
-HTML5CSS3BootstrapResponsive Design
+currently:
+  status: Open to Full Stack / Backend Internships & Collaborative Projects
+```
 
-👁️ Computer Vision & Data Analytics
-OpenCVMediaPipeNumPyPandasPower BI
+I enjoy building practical applications using **Python and Django**, exploring **computer vision concepts**, and helping learners strengthen their programming fundamentals through hands-on coding.
 
-🗄️ Databases & Tooling
-SQLiteMySQLGitGitHubVS CodePostmanNetlifyVercel
+---
 
-💼 Experience & Training
-👩‍🏫 Programming Trainer
-Profenaa Technologies & E-CADD Centre
+## 🚀 What I'm Working On
 
-Delivered structured hands-on training sessions in Python, Java, and C.
-Mentored students in core programming fundamentals, algorithmic logic, and debugging.
-Conducted practical coding workshops, mini-project guidance, and introductory web sessions (HTML/CSS/JS).
-🐍 Python Full Stack Developer Intern
-Vizweb Solutions • 3 Months
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Developed full-stack web applications and CRUD features using the Django Framework.
-Constructed backend models, views, and templates adhering to standard MVT architecture.
-Engineered and integrated REST API endpoints for seamless frontend-backend communication.
-Managed database schema and operations utilizing Django ORM with SQLite and MySQL.
-🚀 Featured Projects
-Project	Tech Stack	Highlights	Links
-🎨 AirCanvas AI	Python OpenCV MediaPipe	• Real-time touchless digital drawing via fingertip coordinates
-• Hand landmark detection and gesture-based interaction
-• Computer vision color canvas with zero hardware sensors	View Repository ↗
-📽️ AI Gesture Presentation Controller	Python OpenCV Computer Vision	• Gesture-controlled slide navigation for hands-free presentations
-• Real-time webcam frame processing for gesture classification
-• Seamless keyboard event mapping for slide decks	Explore GitHub ↗
-🍽️ Hotel QR Scanner System	Django Python SQLite HTML/CSS/JS	• QR-code based instant digital menu and food ordering workflow
-• Dynamic menu, categories, and item management via Django Admin
-• Database-backed cart and order tracking operations	View Repository ↗
-🌐 Personal Portfolio Website	HTML5 CSS3 JavaScript Bootstrap	• Responsive modern personal brand portfolio with mobile optimization
-• Interactive navigation, smooth animations, and certification showcases
-• Deployed on Netlify with CI/CD integration	Live Demo ↗
-📜 Certifications & Accreditations
-🏆 Python Full Stack Developer (Django) — 5-Month Professional Training
-📊 Data Analytics with Python — NPTEL Certified
-☁️ Cloud Computing — NPTEL Certified
-📈 Power BI Data Visualization — Novi-Tech
-☕ Java Programming — Professional Certification
-🖥️ Computer Organization & Office Automation (COA)
-⌨️ Typewriting (English & Tamil) — Higher & Lower Grades
-🎓 Education
+### 🐍 Full Stack Development
 
+Building practical web applications using:
 
-🎓 Tamil Nadu College of Engineering, Coimbatore (2023 – 2027)
-   B.Tech in Artificial Intelligence & Data Science | CGPA: 8.45 / 10
-🏫 Thirumagal Higher Secondary School, Thanjavur
-   Higher Secondary Certificate (HSC) — Science Stream | 75%
-   Secondary School Leaving Certificate (SSLC) | 94%
-📊 GitHub Activity & Statistics
-GitHub StatsGitHub Streak
-Top Languages
-🤝 Connect With Me
-Always interested in building innovative web applications, technical discussions, and collaborative opportunities!
+* Python
+* Django
+* Django REST Framework
+* HTML, CSS & JavaScript
+* SQL / SQLite / MySQL
 
-WebsiteLinkedIn 
-EmailGitHub
+</td>
 
+<td width="50%" valign="top">
 
+### 👁️ AI & Data
 
+Currently exploring:
 
+* OpenCV
+* MediaPipe
+* Gesture Recognition
+* Machine Learning Fundamentals
+* Data Analytics
+* Power BI
 
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" alt="Programming technologies">
+</p>
+
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript" alt="Frontend technologies">
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django" alt="Backend technologies">
+</p>
+
+`Django` `Django REST Framework` `REST APIs` `Authentication` `CRUD` `MVC Architecture`
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Database technologies">
+</p>
+
+`SQL` `SQLite` `MySQL` `Django ORM`
+
+### 👁️ AI / Computer Vision
+
+`OpenCV` `MediaPipe` `Gesture Recognition` `Machine Learning Fundamentals`
+
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" alt="Tools and platforms">
+</p>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td width="100%">
+
+### 👩‍🏫 Programming Trainer
+
+**Profenaa Technologies & E-CADD Centre**
+
+* Delivered structured training in **Python, Java and C**
+* Guided students through programming fundamentals and problem-solving
+* Conducted hands-on coding sessions and mini-projects
+* Introduced learners to HTML, CSS and JavaScript fundamentals
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+### 💻 Python Full Stack Developer Intern
+
+**Vizweb Solutions**
+
+**Duration:** 3 Months
+
+* Developed full-stack CRUD applications using Django
+* Worked with Models, Views and Templates
+* Built and integrated REST APIs
+* Developed responsive interfaces using HTML, CSS and JavaScript
+* Worked with SQLite/MySQL and Django ORM
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+### 🎨 AirCanvas AI
+
+**Python • OpenCV • MediaPipe**
+
+> A real-time computer vision application for touchless digital drawing and gesture recognition.
+
+**Highlights**
+
+* ✋ Hand-tracking based interaction
+* 📍 Finger-coordinate based interaction
+* 👁️ Real-time computer vision
+* 🧠 Gesture recognition concepts
+
+---
+
+### 🖐️ AI Gesture-Based Presentation Controller
+
+**Python • OpenCV • Computer Vision**
+
+> A gesture-based presentation control system designed for intuitive slide navigation.
+
+**Highlights**
+
+* Hand-gesture based presentation controls
+* Computer vision based gesture recognition
+* Real-time interaction concepts
+* Designed for presentation software control
+
+---
+
+### 🍽️ Hotel QR Scanner System
+
+**Python • Django • HTML • CSS • JavaScript • SQLite**
+
+> A QR-based digital menu system designed to simplify restaurant ordering.
+
+**Highlights**
+
+* 📱 QR-based digital menu
+* 🍴 Dynamic menu presentation
+* ⚙️ Menu and pricing management
+* 🗄️ SQLite database integration
+* 🔐 Django admin-based management
+
+---
+
+### 🌐 Personal Portfolio Website
+
+**HTML • CSS • JavaScript • Bootstrap • Vercel**
+
+> A responsive personal portfolio showcasing my skills, projects, experience and certifications.
+
+**Highlights**
+
+* 📱 Responsive design
+* 🧭 Interactive navigation
+* ⌨️ Typing animation
+* 🚀 Deployed portfolio website
+
+---
+
+## 📜 Certifications
+
+<table>
+<tr>
+<td>🐍</td>
+<td><strong>Python Full Stack Development</strong><br>Professional Training — 2026</td>
+</tr>
+<tr>
+<td>📊</td>
+<td><strong>Data Analytics with Python</strong><br>NPTEL Certified</td>
+</tr>
+<tr>
+<td>☁️</td>
+<td><strong>Cloud Computing</strong><br>NPTEL Certified</td>
+</tr>
+<tr>
+<td>📈</td>
+<td><strong>Power BI</strong><br>Data Visualization</td>
+</tr>
+<tr>
+<td>💻</td>
+<td><strong>Computer Organization & Office Automation</strong></td>
+</tr>
+<tr>
+<td>⌨️</td>
+<td><strong>Typewriting — Junior & Senior</strong><br>English & Tamil</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+### 🎓 B.Tech — Artificial Intelligence & Data Science
+
+**Tamil Nadu College of Engineering, Coimbatore**
+
+`2023 – 2027` • **CGPA: 8.45 / 10**
+
+---
+
+### 📚 HSC — Science Stream
+
+**Thirumagal Higher Secondary School, Thanjavur**
+
+**75%**
+
+---
+
+### 📖 SSLC
+
+**Thirumagal Higher Secondary School, Thanjavur**
+
+**94%**
+
+---
+
+## 🎯 Current Focus
+
+```text
+Python Full Stack Development
+        ↓
+Django & REST API Development
+        ↓
+Responsive Web Applications
+        ↓
+Computer Vision & AI
+        ↓
+Data Analytics
+        ↓
+Practical Software Projects
+```
+
+I'm continuously improving my development skills by building projects, experimenting with new technologies, and learning through hands-on implementation.
+
+---
+
+## 📊 GitHub Journey
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bhuvaneshwari-nagarajan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvaneshwari-nagarajan&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=bhuvaneshwari-nagarajan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+### 💬 Let's build something meaningful together.
+
+I'm interested in **Python Full Stack Development, Backend Development, Computer Vision, Data Analytics, internships, and collaborative projects.**
+
+<br>
+
+<a href="https://bnfolio-dev.netlify.app/">
+<img src="https://img.shields.io/badge/🌐_Visit_Portfolio-00D2FF?style=for-the-badge&labelColor=0d1117" alt="Visit portfolio">
+</a>
+
+<a href="https://www.linkedin.com/in/bhuvaneshwari-nagarajan-b4252531b/">
+<img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&labelColor=0d1117" alt="Connect on LinkedIn">
+</a>
+
+<a href="mailto:bhuvaneshwarinagarajan3@gmail.com">
+<img src="https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&labelColor=0d1117" alt="Send email">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00D2FF&height=100&section=footer" width="100%" alt="Animated footer">
+
+### 💡 Always learning • Building • Improving
+
+**Thanks for visiting my profile! 👋**
+
+</div>
